@@ -1,0 +1,31 @@
+* 
+{ 
+    font-family: arial;
+}
+
+header h3
+{
+    color: #AAA;
+}
+.body_structure
+{
+    background-color: #EEE;
+}
+
+.alert 
+{
+    background-color: #ffb2b2;
+    color: #6d0000;
+    border: 1px solid #6d0000;
+    
+}
+
+.data
+{background-color: #EEE;
+}
+
+footer p
+{
+    color: #AAA;
+
+}
